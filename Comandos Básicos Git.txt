@@ -1,0 +1,17 @@
+- Clone - Baixar repositório GitHub na máquina local
+
+git clone + url do repositório
+
+- Add - Adicionar arquivos em um commit
+
+git add . 
+git add -a 
+git add nome pasta/arquivo
+
+- Commit - Arquivos que irão subir pro GitHub
+
+git commit -m "nome do commit"
+
+- Push - Subir commit pro GitHub
+
+git push
